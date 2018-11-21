@@ -1,0 +1,29 @@
+[33mcommit c76eb4a2092cf98cea619c224067c6cdff9737f0[m[33m ([m[1;36mHEAD -> [m[1;32mbranch2[m[33m, [m[1;31morigin/branch2[m[33m)[m
+Author: Name <Name@asd.com>
+Date:   Wed Nov 21 09:54:23 2018 +0200
+
+    branch2 commit
+
+[33mcommit 3eaee01d1bc0b973d3d21458f7888c1b00dae58c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Name <Name@asd.com>
+Date:   Tue Nov 20 18:15:18 2018 +0200
+
+    4th commit
+
+[33mcommit 3670f02d6206cb705af2393fbd7b1359fcd3a41b[m
+Author: Name <Name@asd.com>
+Date:   Tue Nov 20 18:00:11 2018 +0200
+
+    3rd commit
+
+[33mcommit 8cdaa1a46048d31289daf9ba4b60c2177dee96a1[m
+Author: Name <Name@asd.com>
+Date:   Tue Nov 20 17:56:28 2018 +0200
+
+    Sec commit
+
+[33mcommit 4a38d2b7251b2cf0370b7daa30fa9233af296a03[m
+Author: Name <Name@asd.com>
+Date:   Tue Nov 20 17:54:22 2018 +0200
+
+    First commit
